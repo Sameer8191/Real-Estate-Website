@@ -39,3 +39,5 @@ npm run dev
 For any inquiries, feel free to reach out via the contact form on the website or connect on GitHub.
 
 Made with ❤️ by Sameer Sharma
+
+![Sample image](Sample images/Full Page.png)
