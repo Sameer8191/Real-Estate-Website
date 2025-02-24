@@ -26,35 +26,31 @@ Web3 Forms - Contact form handling
 
 📌 Installation
 
+📌 Installation
+
 Clone the repository:
 
 git clone https://github.com/your-username/real-estate-website.git
+
+📋 Copy
 
 Navigate to the project directory:
 
 cd real-estate-website
 
+📋 Copy
+
 Install dependencies:
 
 npm install
+
+📋 Copy
 
 Start the development server:
 
 npm run dev
 
-📂 Project Structure
-
-real-estate-website/
-│-- src/
-│   │-- components/     # Reusable UI components
-│   │-- pages/          # Page components
-│   │-- assets/         # Images and static files
-│   │-- App.js          # Main entry point
-│   │-- index.js        # React DOM rendering
-│-- public/             # Static assets
-│-- package.json        # Dependencies and scripts
-│-- tailwind.config.js  # Tailwind configuration
-│-- README.md           # Project documentation
+📋 Copy
 
 📬 Contact
 
