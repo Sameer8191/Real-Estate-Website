@@ -28,7 +28,7 @@ Web3 Forms - Contact form handling
 
 Clone the repository:
 ```sh
-git clone https://github.com/your-username/real-estate-website.git
+git clone https://github.com/Sameer8191/Real-Estate-Website
 cd real-estate-website
 npm install
 npm run dev
