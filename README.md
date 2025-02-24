@@ -26,23 +26,11 @@ Web3 Forms - Contact form handling
 
 📌 Installation
 
-📌 Installation
-
 Clone the repository:
 ```sh
-
-1.git clone https://github.com/your-username/real-estate-website.git
-
-2.Navigate to the project directory:
-
+git clone https://github.com/your-username/real-estate-website.git
 cd real-estate-website
-
-3.Install dependencies:
-
 npm install
-
-4.Start the development server:
-
 npm run dev
 ```
 
