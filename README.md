@@ -1,6 +1,6 @@
-#Real-Estate-Website
+**#Real-Estate-Website**
 
-A modern and responsive real estate website built with React, Tailwind CSS, and Framer Motion. The project includes smooth animations, dynamic UI components, and a contact form integrated with Web3 Forms.
+**A modern and responsive real estate website built with React, Tailwind CSS, and Framer Motion. The project includes smooth animations, dynamic UI components, and a contact form integrated with Web3 Forms.**
 
 🚀 Features
 
