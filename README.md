@@ -2,6 +2,10 @@
 
 **A modern and responsive real estate website built with React, Tailwind CSS, and Framer Motion. The project includes smooth animations, dynamic UI components, and a contact form integrated with Web3 Forms.**
 
+Live Deployment link
+
+https://real-estate-website-sameer8191s-projects.vercel.app/
+
 🚀 Features
 
 Fully responsive and modern UI
