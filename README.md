@@ -40,4 +40,9 @@ For any inquiries, feel free to reach out via the contact form on the website or
 
 Made with ❤️ by Sameer Sharma
 
+Sample Image
+
+![Sample](https://github.com/Sameer8191/Real-Estate-Website/blob/main/Sample%20images/Full%20Page.png)
+
+
 ![Sample image](Sample images/Full Page.png)
