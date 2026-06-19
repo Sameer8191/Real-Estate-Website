@@ -1,16 +1,52 @@
-# React + Vite
+**#Real-Estate-Website**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**A modern and responsive real estate website built with React, Tailwind CSS, and Framer Motion. The project includes smooth animations, dynamic UI components, and a contact form integrated with Web3 Forms.**
 
-Currently, two official plugins are available:
+Live Deployment link
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://real-estate-website-sameer8191s-projects.vercel.app/
 
-## React Compiler
+🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Fully responsive and modern UI
 
-## Expanding the ESLint configuration
+Animated transitions using Framer Motion
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Property listing with filtering and search functionality
+
+Contact form with Web3 Forms integration
+
+Optimized for performance and SEO
+
+🛠 Tech Stack
+
+React.js - Frontend framework
+
+Tailwind CSS - Utility-first styling
+
+Framer Motion - Animations and transitions
+
+Web3 Forms - Contact form handling
+
+📌 Installation
+
+Clone the repository:
+```sh
+git clone https://github.com/Sameer8191/Real-Estate-Website
+cd real-estate-website
+npm install
+npm run dev
+```
+
+📬 Contact
+
+For any inquiries, feel free to reach out via the contact form on the website or connect on GitHub.
+
+Made with ❤️ by Sameer Sharma
+
+Sample Image
+
+![Sample](https://github.com/Sameer8191/Real-Estate-Website/blob/main/Sample%20images/Full%20Page.png)
+
+
+![Sample image](Sample images/Full Page.png)
